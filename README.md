@@ -31,89 +31,89 @@
 
 ####  Calculus for machine learning
 
-- https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html
+- [https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 
 ### Introduction to Machine Learning
 
-- https://machinelearningmastery.com/basic-concepts-in-machine-learning/
-- https://machinelearningmastery.com/types-of-learning-in-machine-learning/
+- [https://machinelearningmastery.com/basic-concepts-in-machine-learning](https://machinelearningmastery.com/basic-concepts-in-machine-learning)
+- [https://machinelearningmastery.com/types-of-learning-in-machine-learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning)
 
 ####  Python
 
-- https://www.kaggle.com/learn/python
+- [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
 
 ####  Pandas
 
-- https://www.kaggle.com/learn/pandas
+- [https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
 
 ####  Data Cleaning
 
-- https://www.kaggle.com/learn/data-cleaning
+- [https://www.kaggle.com/learn/data-cleaning](https://www.kaggle.com/learn/data-cleaning)
 
 ####  Data Visualization
 
-- https://www.kaggle.com/learn/data-visualization
+- [https://www.kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization)
 
 ####  Feature Engineering
 
-- https://www.kaggle.com/learn/feature-engineering
-- https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it/
+- [https://www.kaggle.com/learn/feature-engineering](https://www.kaggle.com/learn/feature-engineering)
+- [https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it)
 
 #### Machine Learning
 
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-- https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-- https://developers.google.com/machine-learning/crash-course/
-- https://www.udemy.com/machinelearning/learn/
+- [https://machinelearningmastery.com/machine-learning-in-python-step-by-step](https://machinelearningmastery.com/machine-learning-in-python-step-by-step)
+- [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
+- [https://www.udemy.com/machinelearning/learn](https://www.udemy.com/machinelearning/learn)
 
 ####  Deep Learning
 
-- https://www.kaggle.com/learn/deep-learning
+- [https://www.kaggle.com/learn/deep-learning](https://www.kaggle.com/learn/deep-learning)
 - [Deep Learning By IIT-M](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
-- https://www.udemy.com/deeplearning/learn/
+- [https://www.udemy.com/deeplearning/learn](https://www.udemy.com/deeplearning/learn)
 
 #### TensorFlow Framework
 
-- https://www.tensorflow.org/tutorials
-- https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras/
-- https://www.udemy.com/course/deep-learning-tensorflow-2/learn/
+- [https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)
+- [https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras)
+- [https://www.udemy.com/course/deep-learning-tensorflow-2/learn](https://www.udemy.com/course/deep-learning-tensorflow-2/learn)
 
 ####  PyTorch Framework
 
-- https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models/
-- https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials
-- https://www.udemy.com/course/pytorch-deep-learning/learn/
+- [https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models)
+- [https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials](https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials)
+- [https://www.udemy.com/course/pytorch-deep-learning/learn](https://www.udemy.com/course/pytorch-deep-learning/learn)
 
 #### Fast AI
 
-- https://www.fast.ai/
+- [https://www.fast.ai](https://www.fast.ai)
 
 #### Reinforcement Learning
 
 - [Basics](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
-- https://spinningup.openai.com (most comprehensive RL page)
-- https://bair.berkeley.edu/blog/2018/12/12/rllib/ (discusses multi-agent RL problem, briefly discusses optimizing antenna tilts, i.e. SON)
-- https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html (famous RL demo created by AI pioneer Andrej Karpathy)
-- www.wildml.com/2016/10/learning-reinforcement-learning (many links to RL algorithms and videos)
+- [https://spinningup.openai.com (most comprehensive RL page)](https://spinningup.openai.com)
+- [https://bair.berkeley.edu/blog/2018/12/12/rllib (discusses multi-agent RL problem)](https://bair.berkeley.edu/blog/2018/12/12/rllib)
+- [https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html (famous RL demo created by AI pioneer Andrej Karpathy)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
+- [www.wildml.com/2016/10/learning-reinforcement-learning (many links to RL algorithms and videos)](www.wildml.com/2016/10/learning-reinforcement-learning)
 
 ####  ML, DL & RL Specializations (with mathematical intuitions)
 
-- https://www.coursera.org/learn/machine-learning
-- https://www.coursera.org/specializations/deep-learning
-- https://www.coursera.org/specializations/reinforcement-learning
+- [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
+- [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
+- [https://www.coursera.org/specializations/reinforcement-learning](https://www.coursera.org/specializations/reinforcement-learning)
 
 ####  Other Topics
 
 ##### Follow
 
-- http://machinelearningmastery.com/
-- https://towardsdatascience.com/
+- [http://machinelearningmastery.com](http://machinelearningmastery.com)
+- [https://towardsdatascience.com](https://towardsdatascience.com)
 
 #####  Practice
 
-- https://www.kaggle.com
+- [https://www.kaggle.com](https://www.kaggle.com)
 
 ---
 
