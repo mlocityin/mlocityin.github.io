@@ -158,12 +158,3 @@ Making the Prediction
 Machine learning is using data to answer questions. So **Prediction**, or inference, is the step where we get to answer some questions.
 
 This is the point of all this work, where the value of machine learning is realized.
-
-Interesting Reads
-=================
-
-Curse of Dimensionality: <https://towardsdatascience.com/the-curse-of-dimensionality-50dc6e49aa1e>
-
-Dummy variable trap in Regression Models: <https://www.geeksforgeeks.org/ml-dummy-variable-trap-in-regression-models/>  
-
-                                                                       <https://medium.com/@choodaque/the-dummy-variable-trap-c2f92ae3643a>
