@@ -1,3 +1,3 @@
-# Welcome to mlocity
+# Blog Posts
 
 [Test Page](/docs/test.md)
