@@ -106,14 +106,14 @@
 
 ####  Other Topics
 
-##### Follow
+- ##### Follow
 
-- [http://machinelearningmastery.com](http://machinelearningmastery.com)
-- [https://towardsdatascience.com](https://towardsdatascience.com)
+    - [http://machinelearningmastery.com](http://machinelearningmastery.com)
+    - [https://towardsdatascience.com](https://towardsdatascience.com)
 
-#####  Practice
+- #####  Practice
 
-- [https://www.kaggle.com](https://www.kaggle.com)
+    - [https://www.kaggle.com](https://www.kaggle.com)
 
 ---
 
