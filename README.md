@@ -4,8 +4,8 @@
 ### [Blog Posts](/docs/blog_posts.md)
 ---
 
-### [ML Usecases](/docs/blog_posts.md)
+### [ML Usecases](/docs/ml_usecases.md)
 ---
 
-### [Datasets](/docs/blog_posts.md)
+### [Datasets](/docs/datasets.md)
 ---
