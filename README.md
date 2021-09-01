@@ -12,7 +12,7 @@
 
 ## ML Learning Resources
 
-![Learning Resources](/assets/img/learning.png "Learning Resources" =100x100)
+![Learning Resources](/assets/img/learning.png =100x100 "Learning Resources")
 
 ### Mathematical Foundations
 
@@ -119,7 +119,7 @@
 
 ## ML Trends
 
-![ML Trends](/assets/img/trends.jpg "ML Trends" =100x100)
+![ML Trends](/assets/img/trends.jpg =100x100 "ML Trends")
 
 ### Podcasts & playlists
 
