@@ -118,7 +118,7 @@
 
 ## ML Trends
 
-![ML Trends](/assets/img/trends.png "ML Trends")
+![ML Trends](/assets/img/trends.jpg "ML Trends")
 
 ### Podcasts & playlists
 
