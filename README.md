@@ -1,4 +1,4 @@
-# Machine Learning Trends, Usecases, Datasets and More !
+# Machine Learning Trends, Usecases, Datasets & More !
 ---
 
 #### [Blog Posts](/docs/blog_posts.md)
