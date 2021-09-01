@@ -1,4 +1,4 @@
-# Welcome !
+# Machine Learning Trends, Usecases, Datasets and More !
 ---
 
 #### [Blog Posts](/docs/blog_posts.md)
