@@ -12,6 +12,8 @@
 
 ## ML Learning Resources
 
+![Learning Resources](/assets/img/learning.png "Learning Resources")
+
 ### Mathematical Foundations
 
 #### Linear Algebra for Machine Learning
@@ -103,6 +105,7 @@
 - https://www.coursera.org/specializations/reinforcement-learning
 
 ####  Other Topics
+
 ##### Follow
 
 - http://machinelearningmastery.com/
@@ -115,6 +118,8 @@
 ---
 
 ## ML Trends
+
+![ML Trends](/assets/img/learning.png "ML Trends")
 
 ### Podcasts & playlists
 
