@@ -152,12 +152,8 @@
 | [Distill](https://distill.pub/ "https://distill.pub/") | Vivid online research journal about machine learning |
 | [Papers With Code](https://paperswithcode.com/ "https://paperswithcode.com/") | Community for sharing ML papers, code, and evaluations |
 | [Kaggle](https://www.kaggle.com/ "https://www.kaggle.com/") | Data science competitions, discussions, datasets |
-| [DAWNBench](https://dawn.cs.stanford.edu/benchmark/ "https://dawn.cs.stanford.edu/benchmark/") | Deep learning E2E performance benchmarking |
-|
-
-[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+)
-
- | [G](https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020 "https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020")artner's view on IT technologies (updated yearly) |
+| [DAWNBench](https://dawn.cs.stanford.edu/benchmark/ "https://dawn.cs.stanford.edu/benchmark/") | Deep learning E2E performance benchmarking 
+|[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+) | [G](https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020 "https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020")artner's view on IT technologies (updated yearly) |
 
 
 ###  Twitter
