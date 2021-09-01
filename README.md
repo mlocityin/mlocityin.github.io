@@ -10,12 +10,6 @@
 ### [Datasets](/docs/datasets.md)
 ---
 
-## Table Of Contents
-- [ML Learning Resources](https://github.com/mlocityin/mlocityin.github.io/edit/main/README.md#ml-learning-resources)
-- [ML Trends](https://github.com/mlocityin/mlocityin.github.io/edit/main/README.md#ml-trends)
-
----
-
 ## ML Learning Resources
 
 ![Learning Resources](/assets/img/learning.png "Learning Resources")
