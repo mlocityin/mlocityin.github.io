@@ -11,8 +11,8 @@
 ---
 
 ## Table Of Contents
-- [ML Learning Resources](https://github.com/mlocityin/mlocityin.github.io/edit/main/README.md#ML Learning Resources)
-- [ML Trends](https://github.com/mlocityin/mlocityin.github.io/edit/main/README.md#ML Trends)
+- [ML Learning Resources](https://github.com/mlocityin/mlocityin.github.io/edit/main/README.md#ml-learning-resources)
+- [ML Trends](https://github.com/mlocityin/mlocityin.github.io/edit/main/README.md#ml-trends)
 
 ---
 
