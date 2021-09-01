@@ -84,7 +84,7 @@
 - https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials
 - https://www.udemy.com/course/pytorch-deep-learning/learn/
 
-#### Fast AI (Optional)
+#### Fast AI
 
 - https://www.fast.ai/
 
