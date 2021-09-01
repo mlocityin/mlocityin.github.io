@@ -1,5 +1,4 @@
 title: mlocity.in
 description: Machine Learning Trends and Usecases
-show_downloads: false
-google_analytics:
+logo: /assets/img/logo.png
 theme: jekyll-theme-minimal
