@@ -76,8 +76,7 @@ Again, feature selection keeps a subset of the original features while feature e
 
 -   Multiple correspondence analysis (MCA, used to deal with categorical data)
 
-Data preparation and processing**\
-**
+Data preparation and processing
 =====================================
 
 Next step of machine learning is **Data preparation**, where we ***prepare our data for use in our machine learning training***.
