@@ -118,6 +118,8 @@
 
 ## ML Trends
 
+![ML Trends](/assets/img/trends.png "ML Trends")
+
 ### Podcasts & playlists
 
 | **Title/Link** | **Channel** | **Author** | **Description** |
