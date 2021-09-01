@@ -10,6 +10,12 @@
 ### [Datasets](/docs/datasets.md)
 ---
 
+## Table Of Contents
+- [ML Learning Resources](
+- [ML Trends]
+
+---
+
 ## ML Learning Resources
 
 ![Learning Resources](/assets/img/learning.png "Learning Resources")
