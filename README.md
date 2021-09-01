@@ -175,22 +175,17 @@
 | [Oriol Vinyals](https://twitter.com/oriolvinyalsml "https://twitter.com/oriolvinyalsml") | Deepmind principal scientist |
 | [Andrew Ng](https://twitter.com/AndrewYNg "https://twitter.com/andrewyng") | Deep learning expert, educator, co-inventor of Coursera |
 | [Jeff Dean](https://twitter.com/jeffdean "https://twitter.com/jeffdean") | Lead of Google AI |
-| [Google AI](https://twitter.com/GoogleAI "https://twitter.com/googleai") |\
- |
-| [Deepmind](https://twitter.com/deepmindai "https://twitter.com/deepmindai") |\
- |
-| [OpenAI](https://twitter.com/openai "https://twitter.com/openai") |\
- |
+| [Google AI](https://twitter.com/GoogleAI "https://twitter.com/googleai") | |
+| [Deepmind](https://twitter.com/deepmindai "https://twitter.com/deepmindai") | |
+| [OpenAI](https://twitter.com/openai "https://twitter.com/openai") | |
 
 
 ### Conferences
 
 | **Conference** | **Description** |
 |----------------|-----------------|
-| [International Conference on Machine Learning (ICML)](https://icml.cc/ "https://icml.cc/") |\
- |
-| [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/ "https://nips.cc/") |\
- |
+| [International Conference on Machine Learning (ICML)](https://icml.cc/ "https://icml.cc/") | |
+| [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/ "https://nips.cc/") | |
  
 
 ###  Education
