@@ -16,7 +16,7 @@
 
 #### Linear Algebra for Machine Learning
 
-- https://machinelearningmastery.com/linear-algebra-machine-learning/
+- (https://machinelearningmastery.com/linear-algebra-machine-learning/)
 - https://machinelearningmastery.com/linear-algebra-machine-learning-7-day-mini-course/
 
 ####  Statistics for Machine Learning
