@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 title: mlocity.in
 description: Machine Learning Trends an Usecases
+github:
+  is_project_page: false
