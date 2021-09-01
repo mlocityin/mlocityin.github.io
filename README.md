@@ -18,20 +18,20 @@
 
 - #### Linear Algebra for Machine Learning
 
- - [https://machinelearningmastery.com/linear-algebra-machine-learning](https://machinelearningmastery.com/linear-algebra-machine-learning)
- - [https://machinelearningmastery.com/linear-algebra-machine-learning-7-day-mini-course](https://machinelearningmastery.com/linear-algebra-machine-learning-7-day-mini-course)
+    - [https://machinelearningmastery.com/linear-algebra-machine-learning](https://machinelearningmastery.com/linear-algebra-machine-learning)
+    - [https://machinelearningmastery.com/linear-algebra-machine-learning-7-day-mini-course](https://machinelearningmastery.com/linear-algebra-machine-learning-7-day-mini-course)
 
 - ####  Statistics for Machine Learning
 
- - [https://machinelearningmastery.com/statistics-for-machine-learning-mini-course](https://machinelearningmastery.com/statistics-for-machine-learning-mini-course)
+    - [https://machinelearningmastery.com/statistics-for-machine-learning-mini-course](https://machinelearningmastery.com/statistics-for-machine-learning-mini-course)
 
 - ####  Probability for Machine Learning
 
- - [https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course](https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course)
+    - [https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course](https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course)
 
 - ####  Calculus for machine learning
 
- - [https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
+    - [https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 
 ### Introduction to Machine Learning
