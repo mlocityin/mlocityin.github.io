@@ -119,7 +119,7 @@
 
 ## ML Trends
 
-![ML Trends](/assets/img/learning.png "ML Trends")
+![ML Trends](/assets/img/trends.png "ML Trends")
 
 ### Podcasts & playlists
 
