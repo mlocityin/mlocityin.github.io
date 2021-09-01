@@ -12,6 +12,8 @@
 
 ## ML Learning Resources
 
+![Learning Resources](/assets/img/learning.png "Learning Resources")
+
 ### Mathematical Foundations
 
 #### Linear Algebra for Machine Learning
