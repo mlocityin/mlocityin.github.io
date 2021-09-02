@@ -1,7 +1,7 @@
 # Machine Learning Trends & More!
 ---
 
-|[Blog Posts](/docs/blog_posts.md)|[ML Usecases](/docs/ml_usecases.md)|[Datasets](/docs/datasets.md)|
+|[ML Trends]((/docs/ml_trends.md))|[Blog Posts](/docs/blog_posts.md)|[ML Usecases](/docs/ml_usecases.md)|[MLOps](/docs/mlops.md)|
 
 ## ML Learning Resources
 
