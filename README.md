@@ -1,7 +1,7 @@
 # ML Trends & More
 ---
 
-|[ML Trends](/docs/ml_trends.md)|[Blog Posts](/docs/blog_posts.md)|[ML Usecases](/docs/ml_usecases.md)|[MLOps](/docs/ml_ops.md)|
+|[**ML Trends**](/docs/ml_trends.md)|[**Blog Posts**](/docs/blog_posts.md)|[**ML Usecases**](/docs/ml_usecases.md)|[**MLOps**](/docs/ml_ops.md)|
 
 ![MLOCITY](/assets/img/learning.png "MLOCITY")
 
