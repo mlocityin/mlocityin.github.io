@@ -1,7 +1,7 @@
-# Machine Learning Trends & More!
+# Machine Learning Trends and More..
 ---
 
-|[ML Trends](/docs/ml_trends.md)|[Blog Posts](/docs/blog_posts.md)|[ML Usecases & Datasets](/docs/ml_usecases.md)|[MLOps](/docs/ml_ops.md)|
+|[ML Trends](/docs/ml_trends.md)|[Blog Posts](/docs/blog_posts.md)|[ML Usecases](/docs/ml_usecases.md)|[MLOps](/docs/ml_ops.md)|
 
 ## ML Learning Resources
 
@@ -106,20 +106,55 @@
 
     - [https://www.kaggle.com](https://www.kaggle.com)
 
+### More learning resources
+
+| **Title/link** | **Teacher** | **Forum** | **Description** |
+|----------------|-------------|-----------|-----------------|
+| [Machine Learning](https://www.coursera.org/learn/machine-learning "https://www.coursera.org/learn/machine-learning") | A. Ng | [courcera](https://www.coursera.org/learn/machine-learning "https://www.coursera.org/learn/machine-learning") & [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | Classic and still one of the best online courses for ML |
+| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning "https://www.coursera.org/specializations/deep-learning") | A. Ng | [coursera](https://www.coursera.org/specializations/deep-learning "https://www.coursera.org/specializations/deep-learning") & [youtube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists "https://www.youtube.com/channel/uccixc5mjshvytzr1mal5l9w/playlists") | Deep learning specialization with 4 courses |
+| [Introduction to ML for Coders](http://course18.fast.ai/ml "http://course18.fast.ai/ml") | J. Howard | [www](http://course18.fast.ai/ml "http://course18.fast.ai/ml") & [youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | Practical top-down course that teaches random forest and neural networks by [fast.ai](http://fast.ai) |
+| [Practical Deep Learning for Coders](http://course.fast.ai/ "http://course.fast.ai/") | J. Howard | [www](http://course.fast.ai/ "http://course.fast.ai/") & [youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn) | Part 1 of the top-down course on deep-learning by [fast.ai](http://fast.ai) |
+| [Deep Learning from the Foundations](https://course.fast.ai/part2 "https://course.fast.ai/part2") | J. Howard | [www](https://course.fast.ai/part2 "https://course.fast.ai/part2") & [youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtTIdtE1U8qgyxo4Jy2Y91uj) | Part 2 (aka Cutting-edge DL for coders) |
+| Introduction to Deep Learning ([2019](https://www.youtube.com/playlist?list=PL3SnoK5d_s1fwqCwey4NjRoQZdzMnxqVs), [2020](http://introtodeeplearning.com/ "http://introtodeeplearning.com/")) | Multiple | [www](http://introtodeeplearning.com/ "http://introtodeeplearning.com/") & [youtube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Introductory course with application examples by MIT, updated yearly |
+| [Introduction to Statistical Learning](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V) | R. Tibshirany,T. Hasties, D. Witten | youtube | Statistical & machine learning course |
+| [Reinforcement Learning](https://www.youtube.com/playlist?list=PLbWDNovNB5mqFBgq7i3MY6Ui4zudcvNFJ) | D. Silver | youtube | RL course from 2016 by DeepMind |
+| [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | E. Brunskill | youtube | RL course from 2019 by Stanford (CS234) |
+
+
+### Books
+
+| **Title/link** | **Author** | **Description** |
+|----------------|------------|-----------------|
+| [Forecasting: principles and practice](https://otexts.com/fpp2/scatterplots.html "https://otexts.com/fpp2/scatterplots.html") | R. J. Hyndman and G. Athanasopoulos | Free online book of traditional time-series forecasting, with code examples (in R) |
+| [Deep Learning](https://www.deeplearningbook.org/ "https://www.deeplearningbook.org/") | I. Goodfellow, Y. Bengio, A. Courville | Free online book by top experts |
+| [AN Introdution to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | G. James, D. Witten, T. Hastie, R. Tibshirani | Free online book about ML, with examples in R |
+
 ---
 
-## ML Trends
+## ML On Social Media
 
-![ML Trends](/assets/img/trends.jpg "ML Trends")
+### Twitter
 
-### Podcasts & playlists
+| **User/Link** | **Description** |
+|---------------|-----------------|
+| [Yann LeCun](https://twitter.com/ylecun "https://twitter.com/ylecun") | Deep learning expert and pinoeer |
+| [Jeremy Howard](https://twitter.com/jeremyphoward "https://twitter.com/jeremyphoward") | Deep learning expert & educator, main author of fastai |
+| [François Chollet](https://twitter.com/fchollet "https://twitter.com/fchollet") | Deep learning expert, main author of Keras |
+| [Soumith Chintala](https://twitter.com/soumithchintala "https://twitter.com/soumithchintala") | Deep learning expert, one of the authors of pytorch |
+| [Ilya Sutskever](https://twitter.com/ilyasut "https://twitter.com/ilyasut") | Deep learning expert |
+| [Russ Salakhutdinov](https://twitter.com/rsalakhu "https://twitter.com/rsalakhu") | Deep learning expert, co-inventor of many major breakthroughs |
+| [Andrej Karpathy](https://twitter.com/karpathy "https://twitter.com/karpathy") | Deep learning expert |
+| [Ian Goodfellow](https://twitter.com/goodfellow_ian "https://twitter.com/goodfellow_ian") | Deep learning expert, inventor of GANs |
+| [Oriol Vinyals](https://twitter.com/oriolvinyalsml "https://twitter.com/oriolvinyalsml") | Deepmind principal scientist |
+| [Andrew Ng](https://twitter.com/AndrewYNg "https://twitter.com/andrewyng") | Deep learning expert, educator, co-inventor of Coursera |
+| [Jeff Dean](https://twitter.com/jeffdean "https://twitter.com/jeffdean") | Lead of Google AI |
+| [Google AI](https://twitter.com/GoogleAI "https://twitter.com/googleai") |Google AI |
+| [Deepmind](https://twitter.com/deepmindai "https://twitter.com/deepmindai") |Deepmind |
+| [OpenAI](https://twitter.com/openai "https://twitter.com/openai") |OpenAI |
 
-| **Title/Link** | **Channel** | **Author** | **Description** |
-|----------------|-------------|------------|-----------------|
-| [AI Podcast](https://lexfridman.com/ai/ "https://lexfridman.com/ai/") | multiple | Lex Fridman | Conversations about technology, science and intelligence |
-| [Y.Kilcher's youtube channel](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured "https://www.youtube.com/channel/uczhmqk67msjgfcctn7xbfew/featured") | youtube | Yannic Kilcher | Research paper reviews, AI news, etc |
-| [Two Minute Papers](https://www.youtube.com/user/keeroyz "https://www.youtube.com/user/keeroyz") | youtube | Károly Zsolnai-Fehér | Brief introductions to recent papers (mostly CV) |
-
+---
+ 
+## Popular ML Blogs, Resources and Communities
 
 ### Blogs
 
@@ -149,58 +184,26 @@
 | [DAWNBench](https://dawn.cs.stanford.edu/benchmark/ "https://dawn.cs.stanford.edu/benchmark/") | Deep learning E2E performance benchmarking |
 |[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+) |Gartner's view on IT technologies (updated yearly) |
 
+---
+ 
+## ML Podcasts & playlists
 
-### Twitter
+| **Title/Link** | **Channel** | **Author** | **Description** |
+|----------------|-------------|------------|-----------------|
+| [AI Podcast](https://lexfridman.com/ai/ "https://lexfridman.com/ai/") | multiple | Lex Fridman | Conversations about technology, science and intelligence |
+| [Y.Kilcher's youtube channel](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured "https://www.youtube.com/channel/uczhmqk67msjgfcctn7xbfew/featured") | youtube | Yannic Kilcher | Research paper reviews, AI news, etc |
+| [Two Minute Papers](https://www.youtube.com/user/keeroyz "https://www.youtube.com/user/keeroyz") | youtube | Károly Zsolnai-Fehér | Brief introductions to recent papers (mostly CV) |
 
-| **User/Link** | **Description** |
-|---------------|-----------------|
-| [Yann LeCun](https://twitter.com/ylecun "https://twitter.com/ylecun") | Deep learning expert and pinoeer |
-| [Jeremy Howard](https://twitter.com/jeremyphoward "https://twitter.com/jeremyphoward") | Deep learning expert & educator, main author of fastai |
-| [François Chollet](https://twitter.com/fchollet "https://twitter.com/fchollet") | Deep learning expert, main author of Keras |
-| [Soumith Chintala](https://twitter.com/soumithchintala "https://twitter.com/soumithchintala") | Deep learning expert, one of the authors of pytorch |
-| [Ilya Sutskever](https://twitter.com/ilyasut "https://twitter.com/ilyasut") | Deep learning expert |
-| [Russ Salakhutdinov](https://twitter.com/rsalakhu "https://twitter.com/rsalakhu") | Deep learning expert, co-inventor of many major breakthroughs |
-| [Andrej Karpathy](https://twitter.com/karpathy "https://twitter.com/karpathy") | Deep learning expert |
-| [Ian Goodfellow](https://twitter.com/goodfellow_ian "https://twitter.com/goodfellow_ian") | Deep learning expert, inventor of GANs |
-| [Oriol Vinyals](https://twitter.com/oriolvinyalsml "https://twitter.com/oriolvinyalsml") | Deepmind principal scientist |
-| [Andrew Ng](https://twitter.com/AndrewYNg "https://twitter.com/andrewyng") | Deep learning expert, educator, co-inventor of Coursera |
-| [Jeff Dean](https://twitter.com/jeffdean "https://twitter.com/jeffdean") | Lead of Google AI |
-| [Google AI](https://twitter.com/GoogleAI "https://twitter.com/googleai") |Google AI |
-| [Deepmind](https://twitter.com/deepmindai "https://twitter.com/deepmindai") |Deepmind |
-| [OpenAI](https://twitter.com/openai "https://twitter.com/openai") |OpenAI |
+---
 
-
-### Conferences
+## ML Conferences
 
 | **Conference** |
 |-----------------|
 | [International Conference on Machine Learning (ICML)](https://icml.cc/ "https://icml.cc/") |
 | [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/ "https://nips.cc/") |
- 
 
-### Education
-
-| **Title/link** | **Teacher** | **Forum** | **Description** |
-|----------------|-------------|-----------|-----------------|
-| [Machine Learning](https://www.coursera.org/learn/machine-learning "https://www.coursera.org/learn/machine-learning") | A. Ng | [courcera](https://www.coursera.org/learn/machine-learning "https://www.coursera.org/learn/machine-learning") & [youtube](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN) | Classic and still one of the best online courses for ML |
-| [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning "https://www.coursera.org/specializations/deep-learning") | A. Ng | [coursera](https://www.coursera.org/specializations/deep-learning "https://www.coursera.org/specializations/deep-learning") & [youtube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists "https://www.youtube.com/channel/uccixc5mjshvytzr1mal5l9w/playlists") | Deep learning specialization with 4 courses |
-| [Introduction to ML for Coders](http://course18.fast.ai/ml "http://course18.fast.ai/ml") | J. Howard | [www](http://course18.fast.ai/ml "http://course18.fast.ai/ml") & [youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSyktd8A_x0JNd6lxDcZE96) | Practical top-down course that teaches random forest and neural networks by [fast.ai](http://fast.ai) |
-| [Practical Deep Learning for Coders](http://course.fast.ai/ "http://course.fast.ai/") | J. Howard | [www](http://course.fast.ai/ "http://course.fast.ai/") & [youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtSIJb-Qd3pw0cqCbkGeS0xn) | Part 1 of the top-down course on deep-learning by [fast.ai](http://fast.ai) |
-| [Deep Learning from the Foundations](https://course.fast.ai/part2 "https://course.fast.ai/part2") | J. Howard | [www](https://course.fast.ai/part2 "https://course.fast.ai/part2") & [youtube](https://www.youtube.com/playlist?list=PLfYUBJiXbdtTIdtE1U8qgyxo4Jy2Y91uj) | Part 2 (aka Cutting-edge DL for coders) |
-| Introduction to Deep Learning ([2019](https://www.youtube.com/playlist?list=PL3SnoK5d_s1fwqCwey4NjRoQZdzMnxqVs), [2020](http://introtodeeplearning.com/ "http://introtodeeplearning.com/")) | Multiple | [www](http://introtodeeplearning.com/ "http://introtodeeplearning.com/") & [youtube](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | Introductory course with application examples by MIT, updated yearly |
-| [Introduction to Statistical Learning](https://www.youtube.com/playlist?list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V) | R. Tibshirany,T. Hasties, D. Witten | youtube | Statistical & machine learning course |
-| [Reinforcement Learning](https://www.youtube.com/playlist?list=PLbWDNovNB5mqFBgq7i3MY6Ui4zudcvNFJ) | D. Silver | youtube | RL course from 2016 by DeepMind |
-| [Reinforcement Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) | E. Brunskill | youtube | RL course from 2019 by Stanford (CS234) |
-
-
-### Books
-
-
-| **Title/link** | **Author** | **Description** |
-|----------------|------------|-----------------|
-| [Forecasting: principles and practice](https://otexts.com/fpp2/scatterplots.html "https://otexts.com/fpp2/scatterplots.html") | R. J. Hyndman and G. Athanasopoulos | Free online book of traditional time-series forecasting, with code examples (in R) |
-| [Deep Learning](https://www.deeplearningbook.org/ "https://www.deeplearningbook.org/") | I. Goodfellow, Y. Bengio, A. Courville | Free online book by top experts |
-| [AN Introdution to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | G. James, D. Witten, T. Hastie, R. Tibshirani | Free online book about ML, with examples in R |
+---
 
 <!-- Citation -->
 To cite this content, please use:
