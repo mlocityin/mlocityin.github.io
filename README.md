@@ -1,4 +1,4 @@
-# Machine Learning Trends & More!
+# Machine Learning Trends and More!
 ---
 
 #### [Blog Posts](/docs/blog_posts.md)
