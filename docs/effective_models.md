@@ -1,7 +1,6 @@
 # Steps for building effective machine learning models
 
-Gathering and Analyzing Input Data
-==================================
+## Gathering and Analyzing Input Data
 
 First step of machine learning is **gathering data**.
 
@@ -17,8 +16,7 @@ This can provide inputs for the parameters used by time-series prediction algori
 
 Also, Ad-Fuller and Markov hypothesis can be used for statistical analysis of input data.
 
-Exploratory Data Analysis (EDA) with Visualization
-==================================================
+## Exploratory Data Analysis (EDA) with Visualization
 
 In this step, we analyze relationship between different features with respect to outcome.
 
@@ -45,8 +43,7 @@ Heat-map can be used Correlation between different features:
 -   Positive numbers = Positive correlation, i.e. increase in one feature will increase the other feature & vice-versa.
 -   Negative numbers = Negative correlation, i.e. increase in one feature will decrease the other feature & vice-versa.
 
-Feature Selection
-=================
+## Feature Selection
 
 In this step, We drop unnecessary columns/features and keep only the useful ones for our experiment.
 
@@ -61,8 +58,7 @@ Some Techniques for feature selection:
 -   Bidirectional Elimination
 -   Score Comparison
 
-Feature Extraction
-==================
+## Feature Extraction
 
 In this step, Feature extraction is used for creating a new, smaller set of features that still captures most of the useful information.
 
@@ -76,8 +72,7 @@ Again, feature selection keeps a subset of the original features while feature e
 
 -   Multiple correspondence analysis (MCA, used to deal with categorical data)
 
-Data preparation and processing
-=====================================
+## Data preparation and processing
 
 Next step of machine learning is **Data preparation**, where we ***prepare our data for use in our machine learning training***.
 
@@ -87,8 +82,7 @@ Then we apply certain processing techniques such as dealing with missing data, S
 
 We also need to deal with categorical data, such as labeling and one hot encoding.
 
-Model Selection
-===============
+## Model Selection
 
 In this step we train various machine learning models and check which can be used for your data set.
 
@@ -98,18 +92,16 @@ It allows us to see how the model might perform against data that it has not yet
 
 This is meant to be representative of how the model might behave in the real world.
 
-Evaluating Models Performance and Comparison
-============================================
+## Evaluating Models Performance and Comparison
 
-Cross-validation
-----------------
+### Cross-validation
+
 
 Cross-validation is a statistical method used to estimate the skill of machine learning models.
 
 It is commonly used in applied machine learning to compare and select a model for a given predictive modeling problem because it is easy to understand, easy to implement, and results in skill estimates that generally have a lower bias than other methods.
 
-Classification Metrics
-----------------------
+### Classification Metrics
 
 Classification problems are perhaps the most common type of machine learning problem and as such there are a lots of metrics that can be used to evaluate predictions for these problems.
 
@@ -119,8 +111,7 @@ Classification problems are perhaps the most common type of machine learning pro
 -   Confusion Matrix.
 -   Classification Report.
 
-Regression Metrics
-------------------
+### Regression Metrics
 
 The most common metrics for evaluating predictions on regression machine learning problems:
 
@@ -128,8 +119,7 @@ The most common metrics for evaluating predictions on regression machine learnin
 -   Mean Squared Error.
 -   R^2.
 
-Hyper-parameter tuning
-======================
+## Hyper-parameter tuning
 
 Once we've done evaluation, it's possible that we want to see if you can further improve your training in any way.
 
@@ -140,8 +130,7 @@ The following Techniques can be used:
 -   Grid Search Cross Validation
 -   Random Search Cross Validation
 
-Building a Pipeline
-===================
+## Building a Pipeline
 
 The purpose of the pipeline is to assemble several steps that can be cross-validated together while setting different parameters.
 
@@ -151,8 +140,7 @@ Many ML frameworks provides a Pipeline utility to help automate machine learning
 
 Pipelines work by allowing for a linear sequence of data transforms to be chained together culminating in a modeling process that can be evaluated.
 
-Making the Prediction
-=====================
+## Making the Prediction
 
 Machine learning is using data to answer questions. So **Prediction**, or inference, is the step where we get to answer some questions.
 
