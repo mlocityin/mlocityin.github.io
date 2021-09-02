@@ -186,7 +186,7 @@
 
 ---
  
-## ML Podcasts & playlists
+## ML Podcasts and playlists
 
 | **Title/Link** | **Channel** | **Author** | **Description** |
 |----------------|-------------|------------|-----------------|
