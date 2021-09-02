@@ -5,7 +5,8 @@
 
 ![MLOCITY](/assets/img/learning.png "MLOCITY")
 
-## ML Learning Resources
+## *ML Learning Resources*
+---
 
 ### Mathematical Foundations
 
@@ -129,7 +130,8 @@
 | [AN Introdution to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | G. James, D. Witten, T. Hastie, R. Tibshirani | Free online book about ML, with examples in R |
 
 
-## ML On Social Media
+## *ML On Social Media*
+---
 
 ### Twitter
 
@@ -151,7 +153,8 @@
 | [OpenAI](https://twitter.com/openai "https://twitter.com/openai") |OpenAI |
 
  
-## Popular ML Blogs, Resources and Communities
+## *Popular ML Blogs, Resources and Communities*
+---
 
 ### Blogs
 
@@ -182,7 +185,8 @@
 |[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+) |Gartner's view on IT technologies (updated yearly) |
 
  
-## ML Podcasts and Playlists
+## *ML Podcasts and Playlists*
+---
 
 | **Title/Link** | **Channel** | **Author** | **Description** |
 |----------------|-------------|------------|-----------------|
@@ -191,7 +195,8 @@
 | [Two Minute Papers](https://www.youtube.com/user/keeroyz "https://www.youtube.com/user/keeroyz") | youtube | Károly Zsolnai-Fehér | Brief introductions to recent papers (mostly CV) |
 
 
-## ML Conferences
+## *ML Conferences*
+---
 
 | **Conference** |
 |-----------------|
