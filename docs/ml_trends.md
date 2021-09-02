@@ -2,6 +2,6 @@
 ---
 ### 01/09/2021
 
-- [Comparision of Machine Learning Frameworks](/docs/ml_frameworks.md)
+- [Comparision of Machine Learning Frameworks](ml_frameworks.md)
 
 ---
