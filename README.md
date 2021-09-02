@@ -1,4 +1,4 @@
-# ML Trends and More..
+# ML Trends and More
 ---
 
 |[ML Trends](/docs/ml_trends.md)|[Blog Posts](/docs/blog_posts.md)|[ML Usecases](/docs/ml_usecases.md)|[MLOps](/docs/ml_ops.md)|
@@ -210,7 +210,7 @@ To cite this content, please use:
 ```bibtex
 @misc{mlocity,
     author       = {mlocity.in},
-    title        = {Machine Learning Trends & More!},
+    title        = {ML Trends and More},
     howpublished = {\url{https://mlocity.in/}},
     year         = {2021}
 }
