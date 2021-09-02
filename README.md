@@ -9,45 +9,45 @@
 
 ### Mathematical Foundations
 
-- #### Linear Algebra for Machine Learning
+- ##### Linear Algebra for Machine Learning
 
     - [https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html)
     
-- ####  Statistics for Machine Learning
+- ##### Statistics for Machine Learning
 
     - [https://machinelearningmastery.com/statistics-for-machine-learning-mini-course](https://machinelearningmastery.com/statistics-for-machine-learning-mini-course)
 
-- ####  Probability for Machine Learning
+- ##### Probability for Machine Learning
 
     - [https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course](https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course)
 
-- ####  Calculus for machine learning
+- ##### Calculus for machine learning
 
     - [https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 
-### Introduction to Machine Learning
+#### Python
+
+- [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
+
+#### Pandas
+
+- [https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
+
+### Machine Learning Basics
 
 - [https://machinelearningmastery.com/basic-concepts-in-machine-learning](https://machinelearningmastery.com/basic-concepts-in-machine-learning)
 - [https://machinelearningmastery.com/types-of-learning-in-machine-learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning)
 
-####  Python
-
-- [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
-
-####  Pandas
-
-- [https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
-
-####  Data Cleaning
+#### Data Cleaning
 
 - [https://www.kaggle.com/learn/data-cleaning](https://www.kaggle.com/learn/data-cleaning)
 
-####  Data Visualization
+#### Data Visualization
 
 - [https://www.kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization)
 
-####  Feature Engineering
+#### Feature Engineering
 
 - [https://www.kaggle.com/learn/feature-engineering](https://www.kaggle.com/learn/feature-engineering)
 - [https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it)
@@ -60,7 +60,7 @@
 - [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 - [https://www.udemy.com/machinelearning/learn](https://www.udemy.com/machinelearning/learn)
 
-####  Deep Learning
+#### Deep Learning
 
 - [https://www.kaggle.com/learn/deep-learning](https://www.kaggle.com/learn/deep-learning)
 - [Deep Learning By IIT-M](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
@@ -90,13 +90,13 @@
 - [https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html (famous RL demo created by AI pioneer Andrej Karpathy)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 - [www.wildml.com/2016/10/learning-reinforcement-learning (many links to RL algorithms and videos)](www.wildml.com/2016/10/learning-reinforcement-learning)
 
-####  ML, DL & RL Specializations (with mathematical intuitions)
+#### ML, DL & RL Specializations (with mathematical intuitions)
 
 - [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
 - [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
 - [https://www.coursera.org/specializations/reinforcement-learning](https://www.coursera.org/specializations/reinforcement-learning)
 
-####  Other Topics
+#### Other Topics
 
 - ##### Follow
 
