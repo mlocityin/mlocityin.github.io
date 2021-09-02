@@ -171,7 +171,7 @@
 | [Kaggle Interviews & Highlights](https://medium.com/kaggle-blog "https://medium.com/kaggle-blog") | blog | Kaggle | Interviews of data science competition winners etc |
 
 
-### Resources and communities
+### Resources and Communities
 
 | **Title/Link** | **Description** |
 |----------------|-----------------|
@@ -186,7 +186,7 @@
 
 ---
  
-## ML Podcasts and playlists
+## ML Podcasts and Playlists
 
 | **Title/Link** | **Channel** | **Author** | **Description** |
 |----------------|-------------|------------|-----------------|
