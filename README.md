@@ -9,28 +9,28 @@
 
 ### Mathematical Foundations
 
-- ##### Linear Algebra for Machine Learning
+- #### Linear Algebra for Machine Learning
 
     - [https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html](https://ml-cheatsheet.readthedocs.io/en/latest/linear_algebra.html)
     
-- ##### Statistics for Machine Learning
+- #### Statistics for Machine Learning
 
     - [https://machinelearningmastery.com/statistics-for-machine-learning-mini-course](https://machinelearningmastery.com/statistics-for-machine-learning-mini-course)
 
-- ##### Probability for Machine Learning
+- #### Probability for Machine Learning
 
     - [https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course](https://machinelearningmastery.com/probability-for-machine-learning-7-day-mini-course)
 
-- ##### Calculus for machine learning
+- #### Calculus for machine learning
 
     - [https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
 
-#### Python
+## Python
 
 - [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
 
-#### Pandas
+### Pandas
 
 - [https://www.kaggle.com/learn/pandas](https://www.kaggle.com/learn/pandas)
 
@@ -39,20 +39,20 @@
 - [https://machinelearningmastery.com/basic-concepts-in-machine-learning](https://machinelearningmastery.com/basic-concepts-in-machine-learning)
 - [https://machinelearningmastery.com/types-of-learning-in-machine-learning](https://machinelearningmastery.com/types-of-learning-in-machine-learning)
 
-#### Data Cleaning
+### Data Cleaning
 
 - [https://www.kaggle.com/learn/data-cleaning](https://www.kaggle.com/learn/data-cleaning)
 
-#### Data Visualization
+### Data Visualization
 
 - [https://www.kaggle.com/learn/data-visualization](https://www.kaggle.com/learn/data-visualization)
 
-#### Feature Engineering
+### Feature Engineering
 
 - [https://www.kaggle.com/learn/feature-engineering](https://www.kaggle.com/learn/feature-engineering)
 - [https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it](https://machinelearningmastery.com/discover-feature-engineering-how-to-engineer-features-and-how-to-get-good-at-it)
 
-#### Machine Learning
+### Machine Learning
 
 - [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
@@ -60,7 +60,7 @@
 - [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 - [https://www.udemy.com/machinelearning/learn](https://www.udemy.com/machinelearning/learn)
 
-#### Deep Learning
+### Deep Learning
 
 - [https://www.kaggle.com/learn/deep-learning](https://www.kaggle.com/learn/deep-learning)
 - [Deep Learning By IIT-M](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
@@ -78,11 +78,11 @@
 - [https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials](https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials)
 - [https://www.udemy.com/course/pytorch-deep-learning/learn](https://www.udemy.com/course/pytorch-deep-learning/learn)
 
-#### Fast AI
+### Fast AI
 
 - [https://www.fast.ai](https://www.fast.ai)
 
-#### Reinforcement Learning
+### Reinforcement Learning
 
 - [Basics](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning)
 - [https://spinningup.openai.com (most comprehensive RL page)](https://spinningup.openai.com)
@@ -90,20 +90,20 @@
 - [https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html (famous RL demo created by AI pioneer Andrej Karpathy)](https://cs.stanford.edu/people/karpathy/convnetjs/demo/rldemo.html)
 - [www.wildml.com/2016/10/learning-reinforcement-learning (many links to RL algorithms and videos)](www.wildml.com/2016/10/learning-reinforcement-learning)
 
-#### ML, DL & RL Specializations (with mathematical intuitions)
+### ML, DL & RL Specializations (with mathematical intuitions)
 
 - [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
 - [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/deep-learning)
 - [https://www.coursera.org/specializations/reinforcement-learning](https://www.coursera.org/specializations/reinforcement-learning)
 
-#### Other Topics
+### Other Topics
 
-- ##### Follow
+- #### Follow
 
     - [http://machinelearningmastery.com](http://machinelearningmastery.com)
     - [https://towardsdatascience.com](https://towardsdatascience.com)
 
-- #####  Practice
+- ####  Practice
 
     - [https://www.kaggle.com](https://www.kaggle.com)
 
@@ -137,7 +137,7 @@
 | [Kaggle Interviews & Highlights](https://medium.com/kaggle-blog "https://medium.com/kaggle-blog") | blog | Kaggle | Interviews of data science competition winners etc |
 
 
-###  Resources and communities
+### Resources and communities
 
 | **Title/Link** | **Description** |
 |----------------|-----------------|
@@ -151,7 +151,7 @@
 |[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+) | [G](https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020 "https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020")artner's view on IT technologies (updated yearly) |
 
 
-###  Twitter
+### Twitter
 
 | **User/Link** | **Description** |
 |---------------|-----------------|
@@ -179,7 +179,7 @@
 | [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/ "https://nips.cc/") | |
  
 
-###  Education
+### Education
 
 | **Title/link** | **Teacher** | **Forum** | **Description** |
 |----------------|-------------|-----------|-----------------|
