@@ -14,8 +14,7 @@ Before Learning methods of data imputation, we need to understand the reason why
 -   Missing Completely at Random (MCAR): The fact that a certain value is missing has nothing to do with its hypothetical value or with the values of other variables.
 -   Missing not at Random (MNAR): Two possible reasons are that the missing value depends on the hypothetical value or missing value is dependent on some other variable's value.
 
-Data Imputation techniques for categorical features
----------------------------------------------------
+## Data Imputation techniques for categorical features
 
 -   Most Frequent is a statistical strategy to impute missing values which works with categorical features (strings or numerical representations) by replacing missing data with the most frequent values within each column.
 
@@ -23,8 +22,7 @@ Data Imputation techniques for categorical features
 
 -   We can create a predictive model to estimate values that will substitute the missing data In this case, we divide our data set into two sets: One set with no missing values for the variable (training) and another one with missing values (test).  We can use methods like logistic regression for prediction
 
-Data Imputation techniques for continuous features
---------------------------------------------------
+## Data Imputation techniques for continuous features
 
 -   This technique consists of replacing the missing value of a feature by an Mean/Median/Mode value of this feature.
 
