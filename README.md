@@ -25,8 +25,7 @@
 
     - [https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html](https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html)
 
-
-## Python
+### Python
 
 - [https://www.kaggle.com/learn/python](https://www.kaggle.com/learn/python)
 
@@ -66,13 +65,13 @@
 - [Deep Learning By IIT-M](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
 - [https://www.udemy.com/deeplearning/learn](https://www.udemy.com/deeplearning/learn)
 
-#### TensorFlow Framework
+### TensorFlow Framework
 
 - [https://www.tensorflow.org/tutorials](https://www.tensorflow.org/tutorials)
 - [https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras](https://machinelearningmastery.com/tensorflow-tutorial-deep-learning-with-tf-keras)
 - [https://www.udemy.com/course/deep-learning-tensorflow-2/learn](https://www.udemy.com/course/deep-learning-tensorflow-2/learn)
 
-####  PyTorch Framework
+###  PyTorch Framework
 
 - [https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models](https://machinelearningmastery.com/pytorch-tutorial-develop-deep-learning-models)
 - [https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials](https://pytorch.org/tutorials/#welcome-to-pytorch-tutorials)
