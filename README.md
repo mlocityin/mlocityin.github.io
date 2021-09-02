@@ -202,7 +202,6 @@
 | [Deep Learning](https://www.deeplearningbook.org/ "https://www.deeplearningbook.org/") | I. Goodfellow, Y. Bengio, A. Courville | Free online book by top experts |
 | [AN Introdution to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | G. James, D. Witten, T. Hastie, R. Tibshirani | Free online book about ML, with examples in R |
 
-<hr>
 <!-- Citation -->
 To cite this content, please use:
 
