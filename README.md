@@ -1,4 +1,4 @@
-# Machine Learning Trends and More...
+# ML Trends and More..
 ---
 
 |[ML Trends](/docs/ml_trends.md)|[Blog Posts](/docs/blog_posts.md)|[ML Usecases](/docs/ml_usecases.md)|[MLOps](/docs/ml_ops.md)|
@@ -98,13 +98,12 @@
 ### Other Topics
 
 - #### Follow
-
     - [http://machinelearningmastery.com](http://machinelearningmastery.com)
     - [https://towardsdatascience.com](https://towardsdatascience.com)
 
 - ####  Practice
-
     - [https://www.kaggle.com](https://www.kaggle.com)
+    
 
 ### More learning resources
 
@@ -129,7 +128,6 @@
 | [Deep Learning](https://www.deeplearningbook.org/ "https://www.deeplearningbook.org/") | I. Goodfellow, Y. Bengio, A. Courville | Free online book by top experts |
 | [AN Introdution to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf) | G. James, D. Witten, T. Hastie, R. Tibshirani | Free online book about ML, with examples in R |
 
----
 
 ## ML On Social Media
 
@@ -152,7 +150,6 @@
 | [Deepmind](https://twitter.com/deepmindai "https://twitter.com/deepmindai") |Deepmind |
 | [OpenAI](https://twitter.com/openai "https://twitter.com/openai") |OpenAI |
 
----
  
 ## Popular ML Blogs, Resources and Communities
 
@@ -184,7 +181,6 @@
 | [DAWNBench](https://dawn.cs.stanford.edu/benchmark/ "https://dawn.cs.stanford.edu/benchmark/") | Deep learning E2E performance benchmarking |
 |[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+) |Gartner's view on IT technologies (updated yearly) |
 
----
  
 ## ML Podcasts and Playlists
 
@@ -194,7 +190,6 @@
 | [Y.Kilcher's youtube channel](https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured "https://www.youtube.com/channel/uczhmqk67msjgfcctn7xbfew/featured") | youtube | Yannic Kilcher | Research paper reviews, AI news, etc |
 | [Two Minute Papers](https://www.youtube.com/user/keeroyz "https://www.youtube.com/user/keeroyz") | youtube | Károly Zsolnai-Fehér | Brief introductions to recent papers (mostly CV) |
 
----
 
 ## ML Conferences
 
@@ -203,7 +198,6 @@
 | [International Conference on Machine Learning (ICML)](https://icml.cc/ "https://icml.cc/") |
 | [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/ "https://nips.cc/") |
 
----
 
 <!-- Citation -->
 To cite this content, please use:
