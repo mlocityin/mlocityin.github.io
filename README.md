@@ -1,4 +1,4 @@
-# Machine Learning Trends and More..
+# Machine Learning Trends and More...
 ---
 
 |[ML Trends](/docs/ml_trends.md)|[Blog Posts](/docs/blog_posts.md)|[ML Usecases](/docs/ml_usecases.md)|[MLOps](/docs/ml_ops.md)|
