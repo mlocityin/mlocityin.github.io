@@ -147,7 +147,7 @@
 | [Papers With Code](https://paperswithcode.com/ "https://paperswithcode.com/") | Community for sharing ML papers, code, and evaluations |
 | [Kaggle](https://www.kaggle.com/ "https://www.kaggle.com/") | Data science competitions, discussions, datasets |
 | [DAWNBench](https://dawn.cs.stanford.edu/benchmark/ "https://dawn.cs.stanford.edu/benchmark/") | Deep learning E2E performance benchmarking |
-|[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+) | [G](https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020 "https://www.datasciencecentral.com/profiles/blogs/advanced-analytic-platforms-changes-in-the-leaderboard-2020")artner's view on IT technologies (updated yearly) |
+|[Magic Quadrant for Data Science and ML](https://www.gartner.com/doc/reprints?id=1-1YCTPMUL&ct=200213&st=sb&utm_medium=Website+) |Gartner's view on IT technologies (updated yearly) |
 
 
 ### Twitter
@@ -165,17 +165,17 @@
 | [Oriol Vinyals](https://twitter.com/oriolvinyalsml "https://twitter.com/oriolvinyalsml") | Deepmind principal scientist |
 | [Andrew Ng](https://twitter.com/AndrewYNg "https://twitter.com/andrewyng") | Deep learning expert, educator, co-inventor of Coursera |
 | [Jeff Dean](https://twitter.com/jeffdean "https://twitter.com/jeffdean") | Lead of Google AI |
-| [Google AI](https://twitter.com/GoogleAI "https://twitter.com/googleai") | |
-| [Deepmind](https://twitter.com/deepmindai "https://twitter.com/deepmindai") | |
-| [OpenAI](https://twitter.com/openai "https://twitter.com/openai") | |
+| [Google AI](https://twitter.com/GoogleAI "https://twitter.com/googleai") |Google AI |
+| [Deepmind](https://twitter.com/deepmindai "https://twitter.com/deepmindai") |Deepmind |
+| [OpenAI](https://twitter.com/openai "https://twitter.com/openai") |OpenAI |
 
 
 ### Conferences
 
-| **Conference** | **Description** |
-|----------------|-----------------|
-| [International Conference on Machine Learning (ICML)](https://icml.cc/ "https://icml.cc/") | |
-| [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/ "https://nips.cc/") | |
+| **Conference** |
+|-----------------|
+| [International Conference on Machine Learning (ICML)](https://icml.cc/ "https://icml.cc/") |
+| [Conference on Neural Information Processing Systems (NeurIPS)](https://nips.cc/ "https://nips.cc/") |
  
 
 ### Education
