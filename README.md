@@ -1,5 +1,5 @@
 # MLOCITY 
-##### ML trends, concepts and codes. 
+#### ML trends, concepts and codes. 
 ---
 
 |[**ML Trends**](/docs/ml_trends.md)|[**Blog Posts**](/docs/blog_posts.md)|[**ML Usecases**](/docs/ml_usecases.md)|[**MLOps**](/docs/ml_ops.md)|
