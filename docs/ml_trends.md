@@ -11,5 +11,5 @@
 
 ---
 
-### 31/00/2021
+### 31/08/2021
 - [Comparision of Machine Learning Frameworks](ml_frameworks.md)
