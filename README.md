@@ -211,7 +211,7 @@ To cite this content, please use:
 ```bibtex
 @misc{mlocity,
     author       = {mlocity.in},
-    title        = {ML Trends & More},
+    title        = {ML trends, concepts and codes.},
     howpublished = {\url{https://mlocity.in/}},
     year         = {2021}
 }
