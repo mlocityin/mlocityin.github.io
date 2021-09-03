@@ -7,7 +7,7 @@
 ---
 ### 02/09/2021
 
-- [Exploratory Data Analysis using Pandas Profiling and SweetViz](../notebooks_html/Exploratory%20Data%20Analysis%20using%20Pandas%20Profiling%20and%20SweetViz.html')
+- [Exploratory Data Analysis using Pandas Profiling and SweetViz](../notebooks_html/Exploratory%20Data%20Analysis%20using%20Pandas%20Profiling%20and%20SweetViz.html)
 
 ---
 ### 01/09/2021
