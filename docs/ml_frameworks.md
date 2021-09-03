@@ -29,7 +29,7 @@ scikit-learn is a Python module for machine learning built on top of SciPy and d
 
 ---
 
-## Tensorflow
+## *Tensorflow*
 ---
 
 ### Initial Release
