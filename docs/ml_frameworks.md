@@ -5,11 +5,11 @@
 
 ### Initial Release
 
-**June, 2007**
+June, 2007
 
 ### Written In Language
 
-**Python, Cython, C and C++**
+Python, Cython, C and C++
 
 ### Description
 
@@ -34,11 +34,11 @@ scikit-learn is a Python module for machine learning built on top of SciPy and d
 
 ### Initial Release
 
-**November 9, 2015**
+November 9, 2015
 
 ### Written In Language
 
-**Python, C++, CUDA**
+Python, C++, CUDA
 
 ### Description
 
@@ -74,11 +74,11 @@ The latest major version of the framework is TensorFlow 2.0. It brings us a bunc
 
 ### Initial Release
 
-**October 2016**
+October 2016
 
 ### Written In Language
 
-**Python, C++, LUA, CUDA**
+Python, C++, LUA, CUDA
 
 ### Description
 
@@ -108,11 +108,11 @@ PyTorch is the Python successor of Torch library written in Lua and a big compet
 
 ### Initial Release
 
-**Oct 2, 2018**
+Oct 2, 2018
 
 ### Written In Language
 
-**Python**
+Python
 
 ### Description
 
@@ -142,11 +142,11 @@ fast.ai can be described as a research lab bundled with courses, an easy-to-use 
 
 ### Initial Release
 
-**August, 2016**
+August, 2016
 
 ### Written In Language
 
-**Java, Scala, CUDA, C, Clojure**
+Java, Scala, CUDA, C, Clojure
 
 ### Description
 
@@ -167,17 +167,16 @@ It’s a commercial-grade, open-source framework written mainly for Java and Sca
 
 ---
 
-
 ## *Microsoft Cognitive Toolkit (Prev. CNTK)*
 ---
 
 ### Initial Release
 
-**25 January, 2016**
+25 January, 2016
 
 ### Written In Language
 
-**C++**
+C++
 
 ### Description
 
