@@ -42,6 +42,6 @@
 ---
 ### 26/08/2021
 
-- [Traffic Sign Classification Using LeNet Network in Keras](../notebooks_html/Traffic%20Sign%20Classification%20Using%20LeNet%20Network%20in%20Keras)
+- [Traffic Sign Classification Using LeNet Network in Keras](../notebooks_html/Traffic%20Sign%20Classification%20Using%20LeNet%20Network%20in%20Keras.html)
 
 ---
