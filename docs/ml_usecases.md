@@ -45,3 +45,18 @@
 - [Traffic Sign Classification Using LeNet Network in Keras](../notebooks_html/Traffic%20Sign%20Classification%20Using%20LeNet%20Network%20in%20Keras.html)
 
 ---
+### 25/08/2021
+
+- [Spam Classification using XGBoost Classifier](../notebooks_html/Spam%20Classification%20using%20XGBoost%20Classifier.html)
+
+---
+### 24/08/2021
+
+- [Predict Bike Rental Usage Using ANNs](../notebooks_html/Predict_Bike_Rental_Usage_Using_ANNs.html)
+
+---
+### 23/08/2021
+
+- [Predict Crime Rate in Chicago](../notebooks_html/Predict%20Crime%20Rate%20in%20Chicago.html)
+
+---
