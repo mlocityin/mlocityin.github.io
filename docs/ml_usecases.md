@@ -15,3 +15,33 @@
 - [New York City Taxi Fare Prediction Case Study](../notebooks_html/NYC_Taxi_Fare_Prediction.html)
 
 ---
+### 31/08/2021
+
+- [Lego Dataset classification using fast.ai](../notebooks_html/lego-dataset-analysis.html)
+
+---
+### 30/08/2021
+
+- [Kannada MNIST classification using fast.ai](../notebooks_html/kannada-mnist-using-fast-ai.html)
+
+---
+### 29/08/2021
+
+- [Human Activity Recognition using fast.ai](../notebooks_html/human-activity-recognition-using-fast-ai.html)
+
+---
+### 28/08/2021
+
+- [Emergency vehicle identificaiton using fast.ai](../notebooks_html/emergency-vehicle-identification-using-fastai.html)
+
+---
+### 27/08/2021
+
+- [Yelp review classificaiton](../notebooks_html/Yelp%20Reviews%20Classification.html)
+
+---
+### 26/08/2021
+
+- [Traffic Sign Classification Using LeNet Network in Keras](../notebooks_html/Traffic%20Sign%20Classification%20Using%20LeNet%20Network%20in%20Keras)
+
+---
