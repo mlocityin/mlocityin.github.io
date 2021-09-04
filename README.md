@@ -2,7 +2,7 @@
 #### ML trends, concepts and codes. 
 ---
 
-|[**ML Trends**](/docs/ml_trends.md)|[**MLOps**](/docs/ml_ops.md)|[**ML Usecases**](/docs/ml_usecases.md)|[**Datasets**](/docs/datasets.md)|
+|[ML Trends](/docs/ml_trends.md)|[MLOps](/docs/ml_ops.md)|[ML Usecases](/docs/ml_usecases.md)|
 
 
 ![MLOCITY](/assets/img/learning.png "MLOCITY")
