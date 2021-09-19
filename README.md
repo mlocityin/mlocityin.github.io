@@ -8,6 +8,9 @@
 ![MLOCITY](/assets/img/learning_logo.png "MLOCITY")
 
 ## *ML Learning Resources*
+
+![Resources](/assets/img/learning_res.jpg "Resources")
+
 ---
 
 ### Mathematical Foundations
