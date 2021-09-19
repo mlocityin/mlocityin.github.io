@@ -5,7 +5,7 @@
 |[ML Usecases](/docs/ml_usecases.md)|[ML Concepts](/docs/ml_concepts.md)|[ML Trends](/docs/ml_trends.md)|
 
 
-![MLOCITY](/assets/img/learning.png "MLOCITY")
+![MLOCITY](/assets/img/learning_new.png "MLOCITY")
 
 ## *ML Learning Resources*
 ---
