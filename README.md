@@ -133,6 +133,9 @@
 
 
 ## *ML On Social Media*
+
+![Social](/assets/img/social_media.jpg "Social")
+
 ---
 
 ### Twitter
