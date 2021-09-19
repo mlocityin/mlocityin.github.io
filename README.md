@@ -1,8 +1,8 @@
 # MLOCITY 
-#### ML trends, concepts and codes. 
+#### ML usecases, concepts and trends. 
 ---
 
-|[ML Trends](/docs/ml_trends.md)|[MLOps](/docs/ml_ops.md)|[ML Usecases](/docs/ml_usecases.md)|
+|[ML Usecases](/docs/ml_usecases.md)|[ML concepts](/docs/ml_concepts.md)|[ML Trends](/docs/ml_trends.md)|
 
 
 ![MLOCITY](/assets/img/learning.png "MLOCITY")
