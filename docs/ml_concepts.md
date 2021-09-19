@@ -1,4 +1,4 @@
-# ML Trends
+# ML Concepts
 ---
 
 - [Steps for building effective machine learning models](effective_models.md)
